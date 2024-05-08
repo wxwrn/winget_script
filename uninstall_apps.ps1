@@ -1,3 +1,3 @@
-. .\modules\apps.ps1
+. .\modules\test_apps.ps1
 
-winget uninstall $apps
+sudo winget uninstall $test_apps

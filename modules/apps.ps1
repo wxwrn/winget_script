@@ -1,5 +1,27 @@
 $apps = @(
-    'OBSProject.OBSStudio',
+    'Git.Git',
+    'Microsoft.VisualStudioCode',
+    'Mozilla.Firefox',
+    'Microsoft.PowerToys',
+    'Bitwarden.Bitwarden',
+    'Vencord.Vesktop',
+    '7zip.7zip',
+    'ShareX.ShareX',
+    'AltSnap.AltSnap',
+    'Discord.Discord',
+    'flux.flux',
+    'KDE.KDEConnect',
+    'Notepad++.Notepad++',
+    'Rustlang.Rustup',
+    'Spotify.Spotify',
+    'VideoLAN.VLC',
+    'GitHub.cli',
+    'Cyanfish.NAPS2',
+    'Kitware.CMake',
+    'SomePythonThings.WingetUIStore',
+    'Nilesoft.Shell',
+    'Martchus.syncthingtray',
+    'voidtools.Everything',
     'StefanSundin.Superf4'
-    # 'gerardog.gsudo'
+ 
 )
