@@ -22,6 +22,15 @@ $apps = @(
     'Nilesoft.Shell',
     'Martchus.syncthingtray',
     'voidtools.Everything',
-    'StefanSundin.Superf4'
+    'Starship.Starship',
+    'StefanSundin.Superf4',
+
+    'BurntSushi.ripgrep.MSVC',
+    'junegunn.fzf',
+    'qBittorrent.qBittorrent',
+    'Klocman.BulkCrapUninstaller',
+    'REALiX.HWiNFO',
+    'tldr-pages.tlrc'
+    
  
 )
