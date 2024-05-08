@@ -24,7 +24,6 @@ $apps = @(
     'voidtools.Everything',
     'Starship.Starship',
     'StefanSundin.Superf4',
-
     'BurntSushi.ripgrep.MSVC',
     'junegunn.fzf',
     'qBittorrent.qBittorrent',
