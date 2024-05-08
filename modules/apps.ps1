@@ -30,7 +30,8 @@ $apps = @(
     'Klocman.BulkCrapUninstaller',
     'REALiX.HWiNFO',
     'tldr-pages.tlrc',
-    'Valve.Steam'
+    'Valve.Steam',
+    'Google.Chrome'
     
  
 )
