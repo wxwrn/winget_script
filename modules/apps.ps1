@@ -29,7 +29,8 @@ $apps = @(
     'qBittorrent.qBittorrent',
     'Klocman.BulkCrapUninstaller',
     'REALiX.HWiNFO',
-    'tldr-pages.tlrc'
+    'tldr-pages.tlrc',
+    'Valve.Steam'
     
  
 )
