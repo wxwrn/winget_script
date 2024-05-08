@@ -31,7 +31,8 @@ $apps = @(
     'REALiX.HWiNFO',
     'tldr-pages.tlrc',
     'Valve.Steam',
-    'Google.Chrome'
+    'Google.Chrome',
+    'OO-Software.ShutUp10'
     
  
 )

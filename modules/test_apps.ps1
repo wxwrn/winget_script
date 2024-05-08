@@ -1,5 +1,5 @@
 $test_apps = @(
-    'OBSProject.OBSStudio',
+    'OO-Software.ShutUp10',
     'Audacity.Audacity',
     'CPUID.CPU-Z',
     'StefanSundin.Superf4'
