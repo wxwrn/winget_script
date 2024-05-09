@@ -32,7 +32,9 @@ $apps = @(
     'tldr-pages.tlrc',
     'Valve.Steam',
     'Google.Chrome',
-    'OO-Software.ShutUp10'
+    'OO-Software.ShutUp10',
+    'Helix.Helix',
+    'Neovim.Neovim'
     
  
 )
