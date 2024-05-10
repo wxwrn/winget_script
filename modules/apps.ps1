@@ -13,7 +13,6 @@ $apps = @(
     'KDE.KDEConnect',
     'Notepad++.Notepad++',
     'Rustlang.Rustup',
-    'Spotify.Spotify',
     'VideoLAN.VLC',
     'GitHub.cli',
     'Cyanfish.NAPS2',
@@ -38,6 +37,8 @@ $apps = @(
     'TeamSophia.SophiApp',
     'AntibodySoftware.WizTree',
     'xanderfrangos.twinkletray'
-    
- 
+)
+
+$spotify = @(
+    'Spotify.Spotify'
 )
