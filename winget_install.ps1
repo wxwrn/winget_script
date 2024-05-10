@@ -34,8 +34,9 @@ do {
             Clear-Host
             "You chose option #2"
 
-            sudo winget install -h $apps
             winget install -h $spotify
+            sudo winget install -h $apps
+            
 
         } "3" {
             Clear-Host
