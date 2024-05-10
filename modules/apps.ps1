@@ -34,7 +34,10 @@ $apps = @(
     'Google.Chrome',
     'OO-Software.ShutUp10',
     'Helix.Helix',
-    'Neovim.Neovim'
+    'Neovim.Neovim',
+    'TeamSophia.SophiApp',
+    'AntibodySoftware.WizTree',
+    'xanderfrangos.twinkletray'
     
  
 )
