@@ -4,6 +4,7 @@
 
 winget install -h gerardog.gsudo
 
+$env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User") 
 
 function Show-Menu {
     param (
