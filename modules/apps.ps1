@@ -17,7 +17,6 @@ $apps = @(
     'GitHub.cli',
     'Cyanfish.NAPS2',
     'Kitware.CMake',
-    'SomePythonThings.WingetUIStore',
     'Nilesoft.Shell',
     'Martchus.syncthingtray',
     'voidtools.Everything',
@@ -36,7 +35,8 @@ $apps = @(
     'Neovim.Neovim',
     'TeamSophia.SophiApp',
     'AntibodySoftware.WizTree',
-    'xanderfrangos.twinkletray'
+    'xanderfrangos.twinkletray',
+    'SomePythonThings.WingetUIStore'
 )
 
 $spotify = @(
